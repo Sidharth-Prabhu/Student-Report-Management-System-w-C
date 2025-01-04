@@ -47,6 +47,26 @@ To develop a system to store and manage student records using structures, files,
 ---
 
 ## Output
-
+```
+--- Student Record Management System ---
+1. Add Student
+2. Search Student
+3. Update Student
+4. Display All Students
+5. Exit
+Enter your choice: 1
+Enter Student ID: 01
+Enter Student Name: sid
+Enter Student Grade: 12
+Student added successfully!
+```
 ### Sample Run
+```
+--- Student Record Management System ---
+1. Add Student
+2. Search Student
+3. Update Student
+4. Display All Students
+5. Exit
+```
 
